@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+<title id="title">YouTube AI // 3221</title>
+<desc id="desc">A far-future holographic YouTube play symbol: sculpted plasma-red video capsule, white prismatic play portal, electric cyan orbital geometry, and luminous artificial intelligence circuitry on a deep-space black rounded-square tile.</desc>
+<defs>
+  <linearGradient id="void" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B153A"/><stop offset=".34" stop-color="#070B1D"/><stop offset=".75" stop-color="#060B1B"/><stop offset="1" stop-color="#10142B"/></linearGradient>
+  <radialGradient id="pool" cx="50%" cy="48%" r="63%"><stop stop-color="#383B85" stop-opacity=".48"/><stop offset=".35" stop-color="#191F52" stop-opacity=".19"/><stop offset="1" stop-color="#091329" stop-opacity="0"/></radialGradient>
+  <radialGradient id="redFog" cx="50%" cy="50%" r="55%"><stop stop-color="#FF1547" stop-opacity=".49"/><stop offset=".52" stop-color="#F00758" stop-opacity=".12"/><stop offset="1" stop-color="#D2005E" stop-opacity="0"/></radialGradient>
+  <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#AB67FF"/><stop offset=".22" stop-color="#4A2864"/><stop offset=".55" stop-color="#173346"/><stop offset=".78" stop-color="#41D8F4"/><stop offset="1" stop-color="#8556B6"/></linearGradient>
+  <linearGradient id="aura" x1="0" y1="0" x2="1" y2=".7"><stop stop-color="#B85BFF"/><stop offset=".23" stop-color="#6B71FF"/><stop offset=".56" stop-color="#39E5FB"/><stop offset=".87" stop-color="#73FFF0"/><stop offset="1" stop-color="#B85BFF"/></linearGradient>
+  <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FF8897"/><stop offset=".14" stop-color="#FF385C"/><stop offset=".46" stop-color="#EC003D"/><stop offset=".75" stop-color="#B50054"/><stop offset="1" stop-color="#740E63"/></linearGradient>
+  <linearGradient id="redTop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFB6BA"/><stop offset=".18" stop-color="#FF536A"/><stop offset=".48" stop-color="#FF084C"/><stop offset=".85" stop-color="#CB0061"/><stop offset="1" stop-color="#B0078F"/></linearGradient>
+  <linearGradient id="crystal" x1=".05" y1="0" x2=".9" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".28" stop-color="#F6FAFF"/><stop offset=".58" stop-color="#CCEFFF"/><stop offset=".81" stop-color="#9BF9FF"/><stop offset="1" stop-color="#E5CAFF"/></linearGradient>
+  <linearGradient id="crystalEdge" x1=".2" y1="0" x2="1" y2="1"><stop stop-color="#E4C8FF"/><stop offset=".52" stop-color="#50DEFF"/><stop offset="1" stop-color="#FFB6E6"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".20"/><stop offset=".33" stop-color="#FFFFFF" stop-opacity=".055"/><stop offset=".65" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#1D0028" stop-opacity=".42"/></linearGradient>
+  <radialGradient id="flash"><stop stop-color="#FFFFFF"/><stop offset=".2" stop-color="#D5FFFF"/><stop offset=".56" stop-color="#50E3FF" stop-opacity=".65"/><stop offset="1" stop-color="#50E3FF" stop-opacity="0"/></radialGradient>
+  <filter id="blur30" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="30"/></filter>
+  <filter id="blur14" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="14"/></filter>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+  <filter id="iconShadow" x="-30%" y="-35%" width="160%" height="180%"><feDropShadow dx="0" dy="30" stdDeviation="24" flood-color="#000215" flood-opacity=".78"/></filter>
+  <clipPath id="outerClip"><rect x="20" y="20" width="984" height="984" rx="218"/></clipPath>
+  <clipPath id="badgeClip"><rect x="169" y="325" width="686" height="378" rx="130"/></clipPath>
+  <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0V64" fill="none" stroke="#8BB1FF" stroke-width=".8" opacity=".14"/></pattern>
+</defs>
+<g clip-path="url(#outerClip)">
+  <rect width="1024" height="1024" fill="url(#void)"/>
+  <rect width="1024" height="1024" fill="url(#pool)"/>
+  <rect width="1024" height="1024" fill="url(#grid)" opacity=".25"/>
+  <ellipse cx="514" cy="517" rx="401" ry="352" fill="url(#redFog)"/>
+  <!-- The 3221 quantum-data halo -->
+  <circle cx="512" cy="514" r="385" fill="none" stroke="#5C85D2" stroke-width="1.4" stroke-opacity=".24" stroke-dasharray="3 16"/>
+  <circle cx="512" cy="514" r="357" fill="none" stroke="#8E5AF0" stroke-width="2" stroke-opacity=".22"/>
+  <circle cx="512" cy="514" r="334" fill="none" stroke="#87CFFB" stroke-width="1" stroke-opacity=".15" stroke-dasharray="34 19 5 22"/>
+  <circle cx="512" cy="514" r="399" fill="none" stroke="url(#aura)" stroke-width="7" stroke-opacity=".85" stroke-dasharray="176 245 120 422 98 1519" transform="rotate(-103 512 514)"/>
+  <circle cx="512" cy="514" r="360" fill="none" stroke="url(#aura)" stroke-width="4" stroke-opacity=".55" stroke-dasharray="102 580 65 1520" transform="rotate(24 512 514)"/>
+  <circle cx="512" cy="514" r="377" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity=".22" stroke-dasharray="4 65"/>
+  <!-- Holographic field geometry -->
+  <path d="M139 341L221 260H342M882 341L808 267H707M139 686L228 771H356M885 681L791 766H672" fill="none" stroke="url(#aura)" stroke-width="3.3" opacity=".48" stroke-linecap="round"/>
+  <path d="M194 176H278M748 839H832M145 533H177M848 534H880" stroke="#7DD5FF" stroke-width="3" stroke-linecap="round" opacity=".52"/>
+  <path d="M231 213L261 213L277 229M770 811L795 811L808 797" stroke="#E19CFF" stroke-width="3" opacity=".60" fill="none"/>
+
+<path d="M512.0 143.0L512.0 115.0" stroke="#78E8FF" stroke-width="2.8" opacity="0.52" stroke-linecap="round"/>
+<path d="M545.2 134.4L546.1 124.5" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M578.2 138.8L579.9 128.9" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M610.6 146.0L613.2 136.3" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M642.3 156.0L645.7 146.6" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M673.0 168.7L677.2 159.6" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M697.5 192.7L711.5 168.5" stroke="#78E8FF" stroke-width="2.8" opacity="0.52" stroke-linecap="round"/>
+<path d="M730.5 201.9L736.3 193.7" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M756.9 222.1L763.3 214.5" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M781.4 244.6L788.5 237.5" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M803.9 269.1L811.5 262.7" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M824.1 295.5L832.3 289.7" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M824.1 732.5L832.3 738.3" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M803.9 758.9L811.5 765.3" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M781.4 783.4L788.5 790.5" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M756.9 805.9L763.3 813.5" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M730.5 826.1L736.3 834.3" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M697.5 835.3L711.5 859.5" stroke="#78E8FF" stroke-width="2.8" opacity="0.52" stroke-linecap="round"/>
+<path d="M673.0 859.3L677.2 868.4" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M642.3 872.0L645.7 881.4" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M610.6 882.0L613.2 891.7" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M578.2 889.2L579.9 899.1" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M545.2 893.6L546.1 903.5" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M512.0 885.0L512.0 913.0" stroke="#78E8FF" stroke-width="2.8" opacity="0.52" stroke-linecap="round"/>
+<path d="M478.8 893.6L477.9 903.5" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M445.8 889.2L444.1 899.1" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M413.4 882.0L410.8 891.7" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M381.7 872.0L378.3 881.4" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M351.0 859.3L346.8 868.4" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M326.5 835.3L312.5 859.5" stroke="#78E8FF" stroke-width="2.8" opacity="0.52" stroke-linecap="round"/>
+<path d="M293.5 826.1L287.7 834.3" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M267.1 805.9L260.7 813.5" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M242.6 783.4L235.5 790.5" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M220.1 758.9L212.5 765.3" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M199.9 732.5L191.7 738.3" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M199.9 295.5L191.7 289.7" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M220.1 269.1L212.5 262.7" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M242.6 244.6L235.5 237.5" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M267.1 222.1L260.7 214.5" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M293.5 201.9L287.7 193.7" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M326.5 192.7L312.5 168.5" stroke="#78E8FF" stroke-width="2.8" opacity="0.52" stroke-linecap="round"/>
+<path d="M351.0 168.7L346.8 159.6" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M381.7 156.0L378.3 146.6" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M413.4 146.0L410.8 136.3" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M445.8 138.8L444.1 128.9" stroke="#78E8FF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+<path d="M478.8 134.4L477.9 124.5" stroke="#9EBDFF" stroke-width="1.4" opacity="0.23" stroke-linecap="round"/>
+
+  <!-- AI neural facets, routed toward the media capsule -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M192 296H286L326 256H401" stroke="#AE81FF" stroke-width="3.5" opacity=".53"/>
+    <path d="M650 244H731L783 296H833" stroke="#75EFFB" stroke-width="3.5" opacity=".66"/>
+    <path d="M165 745H259L307 792H373" stroke="#91EFFF" stroke-width="3.5" opacity=".58"/>
+    <path d="M667 791H751L802 742H869" stroke="#D68EFF" stroke-width="3.5" opacity=".51"/>
+    <path d="M287 241V213L314 186H370" stroke="#A889FF" stroke-width="2" opacity=".28"/>
+    <path d="M746 780V812L721 837H657" stroke="#6EF7F0" stroke-width="2" opacity=".28"/>
+  </g>
+  <g fill="#B5F5FF"><circle cx="193" cy="296" r="5"/><circle cx="833" cy="296" r="5"/><circle cx="165" cy="745" r="5"/><circle cx="869" cy="742" r="5"/></g>
+  <g fill="#D0A4FF" opacity=".9"><circle cx="401" cy="256" r="4"/><circle cx="373" cy="792" r="4"/><circle cx="650" cy="244" r="4"/></g>
+  <!-- Floating capsules, depth layers -->
+  <rect x="199" y="353" width="653" height="378" rx="131" fill="none" stroke="#52E8FF" stroke-opacity=".19" stroke-width="5"/>
+  <rect x="180" y="340" width="687" height="378" rx="132" fill="none" stroke="#C661FF" stroke-opacity=".24" stroke-width="5"/>
+  <rect x="154" y="310" width="715" height="407" rx="140" fill="none" stroke="url(#aura)" stroke-opacity=".26" stroke-width="2.5" stroke-dasharray="210 150 140 222"/>
+  <rect x="167" y="336" width="690" height="375" rx="135" fill="#F80056" opacity=".38" filter="url(#blur30)"/>
+  <rect x="169" y="325" width="686" height="378" rx="130" fill="#F50044" filter="url(#iconShadow)"/>
+  <!-- Main signature YouTube capsule, evolved into a hardlight display -->
+  <rect x="169" y="325" width="686" height="378" rx="130" fill="url(#pulse)"/>
+  <g clip-path="url(#badgeClip)">
+    <path d="M140 340H860V463C685 383 521 371 361 397C264 414 192 453 140 498Z" fill="#FFC1D8" opacity=".13"/>
+    <path d="M138 556C331 483 536 474 862 564V730H144Z" fill="#730553" opacity=".20"/>
+    <path d="M166 705C362 629 633 643 859 579V725H166Z" fill="#280A41" opacity=".18"/>
+    <rect x="169" y="325" width="686" height="378" fill="url(#glass)"/>
+    <!-- Capsule display scanlines -->
+    <path d="M184 430H840M182 603H843" stroke="#FFC2DD" stroke-width="1.5" opacity=".12"/>
+    <path d="M232 368C381 316 640 324 788 374" fill="none" stroke="#FFF2F2" stroke-width="9" opacity=".24" stroke-linecap="round"/>
+    <path d="M245 684C402 702 639 704 785 650" fill="none" stroke="#3B0029" stroke-width="13" opacity=".2" stroke-linecap="round"/>
+  </g>
+  <rect x="172.5" y="328.5" width="679" height="371" rx="126" fill="none" stroke="url(#redTop)" stroke-width="7"/>
+  <path d="M245 347C394 317 633 325 769 361" fill="none" stroke="#FFFFFF" stroke-opacity=".31" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M215 629C230 662 255 680 293 688" fill="none" stroke="#FFB2C4" stroke-opacity=".4" stroke-width="4" stroke-linecap="round"/>
+  <!-- Prismatic white triangle: time-space play portal -->
+  <path d="M431 415C431 393 455 381 478 393L663 499C685 512 685 533 663 547L478 653C454 666 431 654 431 630Z" fill="#240F35" opacity=".55" transform="translate(9 13)"/>
+  <path d="M433 412C433 392 457 380 480 393L658 497C682 511 682 533 658 547L480 651C457 664 433 652 433 632Z" fill="#8DEFFF" opacity=".75" filter="url(#glow)"/>
+  <path d="M433 412C433 392 457 380 480 393L658 497C682 511 682 533 658 547L480 651C457 664 433 652 433 632Z" fill="url(#crystal)"/>
+  <path d="M458 401L458 641" stroke="#FFFFFF" stroke-opacity=".8" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M481 395L656 504" stroke="#FFFFFF" stroke-opacity=".8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M479 652L655 546" stroke="#48D5FF" stroke-opacity=".77" stroke-width="3.3" stroke-linecap="round"/>
+  <!-- prism spectral refractions -->
+  <path d="M480 393L655 503L598 523L479 427Z" fill="#FFFFFF" opacity=".09"/>
+  <path d="M471 631L628 539L459 568Z" fill="#59D9FF" opacity=".14"/>
+  <path d="M661 501Q675 512 670 532" fill="none" stroke="#FFFFFF" stroke-opacity=".8" stroke-width="3"/>
+  <!-- upper-right AI quantum spark rather than dated flat star -->
+  <circle cx="813" cy="271" r="59" fill="url(#flash)" opacity=".6"/>
+  <path d="M813 226C819 248 829 262 855 271C828 277 819 291 813 316C807 291 796 279 772 271C797 263 807 248 813 226Z" fill="#D6F9FF"/>
+  <path d="M813 239C817 258 826 267 841 271C824 275 817 287 813 301C809 287 801 275 785 271C802 265 810 257 813 239Z" fill="#FFFFFF" opacity=".55"/>
+  <!-- scattered photons -->
+  <circle cx="270" cy="222" r="3.3" fill="#B287FF"/>
+  <circle cx="744" cy="204" r="3.1" fill="#B9F6FF"/>
+  <circle cx="839" cy="802" r="4" fill="#9BDBFF"/>
+  <circle cx="251" cy="804" r="3.2" fill="#C19CFF"/>
+  <path d="M316 843h35m-17.5-17.5v35M690 170h30m-15-15v30" stroke="#A9DCFF" opacity=".42" stroke-width="2"/>
+  <!-- front-of-glass light flecks -->
+  <path d="M191 447V484M834 582V619" stroke="#FFCDDF" stroke-width="3" opacity=".3" stroke-linecap="round"/>
+</g>
+<!-- outer image hardware enclosure -->
+<rect x="21.5" y="21.5" width="981" height="981" rx="216.5" fill="none" stroke="url(#rim)" stroke-width="5" opacity=".82"/>
+<path d="M96 212C102 125 153 77 238 63" fill="none" stroke="#C29BFF" stroke-width="5" stroke-opacity=".65" stroke-linecap="round"/>
+<path d="M927 818C920 905 868 949 787 963" fill="none" stroke="#6EF3FA" stroke-width="5" stroke-opacity=".65" stroke-linecap="round"/>
+</svg>
